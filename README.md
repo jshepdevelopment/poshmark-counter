@@ -1,4 +1,4 @@
-#Poshmark Success/Fail Counter
+# Poshmark success/fail counter
 
 AngularJS and ngStorage applicationt that saves success/fail counters to local storage.
 Percentage calculations using AngularJS expressions.
